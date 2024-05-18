@@ -42,7 +42,8 @@ public static double add(double num1, double num2) {
        // double r1= add (0, 5); 
 
           
- 
+  //@Test1
+       // double r1= add (0, 8); 
       
     }
     
